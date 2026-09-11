@@ -3,26 +3,26 @@
 
 
 
-# [Project Name] 🎯
+# Fake Laugh Detector 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Green Leaf
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Vaishnav PT - Jawaharlal College Of Engineering and Technology , Palakkad
+- Member 2: Swaroop Krishnan M - Jawaharlal College Of Engineering and Technology , Palakkad
+
 
 ### Project Description
-[2-3 lines about what your project does]
+This project analyzes laughter audio to classify it as genuine (real) or posed (fake) using machine-learning techniques. It extracts acoustic features such as pitch, energy, rhythm, and MFCCs, then provides predictions through a simple web application.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Determining whether someone’s laugh is a genuine burst of joy or a carefully rehearsed “ha-ha-ha” performance.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We feed laughter clips to our digital Giggle Inspector, which listens for clues like pitch jumps, energy bursts, rhythm, and sound texture. Then a machine-learning model delivers its verdict: authentic belly laugh or suspiciously well-rehearsed performance.
 
 ## Technical Details
 ### Technologies/Components Used
