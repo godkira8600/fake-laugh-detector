@@ -39,7 +39,8 @@ For Software:
 git clone <your-repository-link>
 cd fake_laugh_detector
 
-py -m venv venv
+python -m venv venv
+
 .\venv\Scripts\Activate.ps1
 
 pip install -r requirements.txt
