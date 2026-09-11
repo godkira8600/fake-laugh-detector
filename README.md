@@ -16,7 +16,7 @@
 
 
 ### Project Description
-This project analyzes laughter audio to classify it as genuine (real) or posed (fake) using machine-learning techniques. It extracts acoustic features such as pitch, energy, rhythm, and MFCCs, then provides predictions through a simple web application.
+This project analyzes laughter audio to classify it as genuine (real) or posed (fake) using machine-learning techniques. It extracts acoustic features such as pitch, energy, rhythm, and MFCCs, then provides predictions through a Flask web application.
 
 ### The Problem (that doesn't exist)
 Determining whether someone’s laugh is a genuine burst of joy or a carefully rehearsed “ha-ha-ha” performance.
@@ -27,23 +27,29 @@ We feed laughter clips to our digital Giggle Inspector, which listens for clues 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages used: Python, HTML, CSS, JavaScript  
+- Frameworks used: Flask  
+- Libraries used: Librosa, NumPy, Pandas, Scikit-learn, SoundFile, Joblib, Matplotlib, Seaborn  
+- Tools used: Git, GitHub, Visual Studio Code, Flask development server
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+git clone <your-repository-link>
+cd fake_laugh_detector
+
+py -m venv venv
+.\venv\Scripts\Activate.ps1
+
+pip install -r requirements.txt
 
 # Run
-[commands]
+python src\app.py
+
+Then open the local address shown in the terminal, usually:
+http://127.0.0.1:5000
+
 
 ### Project Documentation
 For Software:
@@ -62,24 +68,6 @@ For Software:
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
@@ -87,7 +75,7 @@ For Hardware:
 *Explain what the video demonstrates*
 
 # Additional Demos
-[Add any extra demo materials/links]
+---
 
 ## Team Contributions
 - [Name 1]: [Specific contributions]
