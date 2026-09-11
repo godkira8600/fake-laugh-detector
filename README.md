@@ -16,7 +16,7 @@
 
 
 ### Project Description
-This project analyzes laughter audio to classify it as genuine (real) or posed (fake) using machine-learning techniques. It extracts acoustic features such as pitch, energy, rhythm, and MFCCs, then provides predictions through a Flask web application.
+This project analyzes laughter audio to classify it as genuine (real) or posed (fake) using machine-learning techniques. It extracts acoustic features such as pitch, energy, rhythm, and MFCCs, then provides predictions through a simple web application.
 
 ### The Problem (that doesn't exist)
 Determining whether someone’s laugh is a genuine burst of joy or a carefully rehearsed “ha-ha-ha” performance.
@@ -27,10 +27,10 @@ We feed laughter clips to our digital Giggle Inspector, which listens for clues 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- Languages used: Python, HTML, CSS, JavaScript  
-- Frameworks used: Flask  
+- Languages used: Python, HTML, CSS  
+- Frameworks used: Streamlit  
 - Libraries used: Librosa, NumPy, Pandas, Scikit-learn, SoundFile, Joblib, Matplotlib, Seaborn  
-- Tools used: Git, GitHub, Visual Studio Code, Flask development server
+- Tools used: Git, GitHub, Visual Studio Code, Streamlit development server
 
 
 ### Implementation
@@ -55,7 +55,7 @@ http://127.0.0.1:5000
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+!<img src="" />(Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
@@ -78,9 +78,8 @@ For Software:
 ---
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Vaishnav PT : Dataset Collection
+- Swaroop Krishnan M : Interface Designing
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
