@@ -69,9 +69,7 @@ For Software:
 
 ### Project Demo
 # Video
-
-
-
+![Project Demo Video](docs/fake_laugh_detector_demo.mp4)
 *DEMO Working of The Project*
 
 # Additional Demos
