@@ -56,21 +56,23 @@ http://127.0.0.1:5000
 For Software:
 
 # Screenshots (Add at least 3)
-!<img src="docs/Screenshot (52).png" />
+<img src="docs/Screenshot (52).png" />
 *Dashboard Of Fake Laugh Detector*
 
-!<img src="docs/Screenshot (53).png" />
+<img src="docs/Screenshot (53).png" />
 *Dashboard When the Result is Published*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+<img src="docs/workflow.png" />
+*Workflow Diagram*
 
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+
+
+
+*DEMO Working of The Project*
 
 # Additional Demos
 ---
